@@ -10,8 +10,8 @@ Viele neue Projekte programmieren.
 ## 18.10.2024
 
 
-- [ ] Das OBA 322 weit wie möglich fertig bringen.
-- [ ] ALte Aufgaben und Powerpoints repetieren (Wissen wieder auffrischen)
+- [x] Das OBA 322 weit wie möglich fertig bringen(Hälfte oder fast fertig).
+- [x] ALte Aufgaben und Powerpoints repetieren (Wissen wieder auffrischen)
 - [ ] Den Cheese Shop ausbessern aus dem Modul 322. (Fehler behebung und fehlende Seiten ausfüllen)
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
@@ -22,6 +22,8 @@ Viele neue Projekte programmieren.
 
 
 ## Reflexion
+
+Heute habe ich weiter an dem OBA gearbeitet. Ich hatte mit dem am Mittwoch angefangen und ich denke ich bin jetzt ungefähr bei der Hälfte oder auch schon ein wenig weiter. Mir ist am Anfang das OOP programmieren schwer gefallen aber jetzt langsam verstehe ich es besser. Ich habe mir noch alte Aufgaben und PPPs repetiert damit ich das wieder im Kopf hatte.(63)
 
 ## 
 
