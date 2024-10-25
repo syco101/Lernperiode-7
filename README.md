@@ -28,7 +28,7 @@ Heute habe ich weiter an dem OBA gearbeitet. Ich hatte mit dem am Mittwoch angef
 ## 
 
 
-- [ ] VIele Aufgaben von 320 repetieren
+- [ ] 320 repetieren
 - [ ] Javascript videos schauen 
 - [ ]
 
@@ -41,6 +41,7 @@ Heute habe ich weiter an dem OBA gearbeitet. Ich hatte mit dem am Mittwoch angef
 
 ## Reflexion
 
+Heute habe ich das Modul 320 repetiert mit Aufträgen, Powerpoint und mit der Session vom Herrn Meyer. Ich habe noch Videos und Theorie auf W3S geschaut und gelernt weil ein neues Modul von uns über Javascript ist und ich mich in dem verbessern wollte.
 
 ## 
 
