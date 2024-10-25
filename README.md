@@ -28,8 +28,8 @@ Heute habe ich weiter an dem OBA gearbeitet. Ich hatte mit dem am Mittwoch angef
 ## 
 
 
-- [ ] 320 repetieren
-- [ ] Javascript videos schauen 
+- [x] 320 repetieren
+- [x] Javascript videos schauen 
 - [ ]
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
