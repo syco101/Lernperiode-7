@@ -46,8 +46,8 @@ Heute habe ich das Modul 320 repetiert mit Aufträgen, Powerpoint und mit der Se
 ## 
 
 
-- [ ] 
-- [ ] 
+- [ 320 nochmals komplett anschauen und falls neue Fragen auf tauchen, diese Herr Meyer stellen ] 
+- [Javascript tutorials schauen] 
 - [ ]
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
