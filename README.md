@@ -63,7 +63,7 @@ Ich habe mir Heute verschiedene JavaScript Tutorials angeschaut um mein Wissen e
 ## 08.11.2024
 
 
-- [ ] Den Moodle Auftrag von 294 machen.
+- [ ] Den Moodle Auftrag Crud machen.
 - [ ] Mich mehr über Json und Javascript informieren und noch mehr üben.
 - [ ]
 
