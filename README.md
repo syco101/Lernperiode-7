@@ -91,8 +91,8 @@ David
 ## 
 
 
-- [ ] Javascript üben und Videos schauen
-- [ ] nochmals HTML und CSS üben
+- [x] Javascript To do liste tutorials schauen 
+- [x] nochmals HTML und CSS üben
 - [ ]
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
