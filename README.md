@@ -63,8 +63,8 @@ Ich habe mir Heute verschiedene JavaScript Tutorials angeschaut um mein Wissen e
 ## 08.11.2024
 
 
-- [ ] Den Moodle Auftrag Crud machen.
-- [ ] Mich mehr über Json und Javascript informieren und noch mehr üben.
+- [x] Den Moodle Auftrag Crud machen.
+- [x] Mich mehr über Json und Javascript informieren und noch mehr üben.
 - [ ]
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
@@ -75,13 +75,24 @@ Ich habe mir Heute verschiedene JavaScript Tutorials angeschaut um mein Wissen e
 
 
 ## Reflexion
-
+Good evening, Mr. Meyer,
+ 
+On November 8th in the Lernatelier, I completed two assignments from GitHub. First, I worked on the Moodle CRUD task, where I practiced various operations and learned about the functionality of GET, POST, PUT, and DELETE requests. It was helpful to understand these concepts, especially in preparation for the OBA exam. Additionally, I needed to code in JSON, and I now feel I have a good understanding of its structure, which is generally consistent across different uses. I found this challenging in both languages and it needed time to get the right structure of the code, but I think this is normal for a new language
+ 
+For this task, I needed to use Fetch. At first, I wasn't sure where to place it or exactly what it did, but after watching two tutorials, I was able to understand it and implement it successfully. This task was very helpful for deepening my knowledge of coding in JSON and JavaScript.
+ 
+I also needed to use intheritance but this was not to hard because of the module 320. 
+ 
+My second task was to further develop my understanding of JavaScript and JSON, which I managed to achieve naturally while working on the first task. I only watched a short video on how to create an element at the beginning of the Lernatelier session.
+ 
+Best regards,
+David
 
 ## 
 
 
-- [ ] 
-- [ ] 
+- [ ] Javascript üben und Videos schauen
+- [ ] nochmals HTML und CSS üben
 - [ ]
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
