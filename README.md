@@ -91,8 +91,8 @@ David
 ## 
 
 
-- [x] Javascript To do liste tutorials schauen 
-- [x] nochmals HTML und CSS üben
+- [x] Javascript Auftrag CRUD 2 lösen und Hilfstutorials schauen
+- [ ] nochmals HTML und CSS üben
 - [ ]
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
@@ -103,7 +103,7 @@ David
 
 
 ## Reflexion
-
+Heute habe ich mehr Javascript als HTML und CSS geübt. Ich habe den zweiten CRUD Auftrag angefangen und bin auch sehr weit gekommen aber leider nicht ganz fertig. Ich habe dann noch Youtube CRUD Tutorials geschaut einfach nochmals für die Repetition das ich es komplett verstehe. HTML und CSS habe ich Heute nicht so viel geübt weil ich viel mehr mit Javascript und dem Auftrag beschäftigt war aber dies war auch meine Priorität für den heutigen Tag.
 
 ## 20.12.24
 
