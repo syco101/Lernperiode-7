@@ -11,7 +11,7 @@ Viele neue Projekte programmieren.
 
 
 - [x] Das OBA 322 weit wie möglich fertig bringen(Hälfte oder fast fertig).
-- [x] ALte Aufgaben und Powerpoints repetieren (Wissen wieder auffrischen)
+- [x] Alte Aufgaben und Powerpoints repetieren (Wissen wieder auffrischen)
 - [ ] Den Cheese Shop ausbessern aus dem Modul 322. (Fehler behebung und fehlende Seiten ausfüllen)
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
