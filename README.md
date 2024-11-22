@@ -88,7 +88,7 @@ My second task was to further develop my understanding of JavaScript and JSON, w
 Best regards,
 David
 
-## 
+## 15.11.2024
 
 
 - [x] Javascript Auftrag CRUD 2 lösen und Hilfstutorials schauen
@@ -105,11 +105,11 @@ David
 ## Reflexion
 Heute habe ich mehr Javascript als HTML und CSS geübt. Ich habe den zweiten CRUD Auftrag angefangen und bin auch sehr weit gekommen aber leider nicht ganz fertig. Ich habe dann noch Youtube CRUD Tutorials geschaut einfach nochmals für die Repetition das ich es komplett verstehe. HTML und CSS habe ich Heute nicht so viel geübt weil ich viel mehr mit Javascript und dem Auftrag beschäftigt war aber dies war auch meine Priorität für den heutigen Tag.
 
-## 20.12.24
+## 22.11.24
 
 
-- [ ] 
-- [ ] 
+- [ ] Die zwei Aufträge vom Modul 294 lösen (
+- [ ] Javascript repetieren
 - [ ]
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
