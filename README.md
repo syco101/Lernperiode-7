@@ -6,6 +6,12 @@ Ich stehe eigentlich gerade gut mit meinen Noten aber ich würde sie schon noch 
 Ich will die nächsten Modul-Themen lernen. dadurch erweitere ich mein Wissen.
 Viele neue Projekte programmieren.
 
+Noten in diesem Modul:
+
+231: 6
+322: 4.5
+
+
 
 ## 18.10.2024
 
@@ -14,11 +20,6 @@ Viele neue Projekte programmieren.
 - [x] Alte Aufgaben und Powerpoints repetieren (Wissen wieder auffrischen)
 - [ ] Den Cheese Shop ausbessern aus dem Modul 322. (Fehler behebung und fehlende Seiten ausfüllen)
 
-| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
-| --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |                      |                |                |          |
-| ...             |                      |                |                |          |
-| 4               |                      |                |                |          |
 
 
 ## Reflexion
@@ -32,11 +33,7 @@ Heute habe ich weiter an dem OBA gearbeitet. Ich hatte mit dem am Mittwoch angef
 - [x] Javascript videos schauen 
 - [ ]
 
-| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
-| --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |                      |                |                |          |
-| ...             |                      |                |                |          |
-| 4               |                      |                |                |          |
+
 
 
 ## Reflexion
@@ -50,11 +47,6 @@ Heute habe ich das Modul 320 repetiert mit Aufträgen, Powerpoint und mit der Se
 - [ ] Javascript tutorials schauen
 - [ ]
 
-| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
-| --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |                      |                |                |          |
-| ...             |                      |                |                |          |
-| 4               |                      |                |                |          |
 
 
 ## Reflexion
@@ -67,15 +59,10 @@ Ich habe mir Heute verschiedene JavaScript Tutorials angeschaut um mein Wissen e
 - [x] Mich mehr über Json und Javascript informieren und noch mehr üben.
 - [ ]
 
-| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
-| --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |                      |                |                |          |
-| ...             |                      |                |                |          |
-| 4               |                      |                |                |          |
+
 
 
 ## Reflexion
-Good evening, Mr. Meyer,
  
 On November 8th in the Lernatelier, I completed two assignments from GitHub. First, I worked on the Moodle CRUD task, where I practiced various operations and learned about the functionality of GET, POST, PUT, and DELETE requests. It was helpful to understand these concepts, especially in preparation for the OBA exam. Additionally, I needed to code in JSON, and I now feel I have a good understanding of its structure, which is generally consistent across different uses. I found this challenging in both languages and it needed time to get the right structure of the code, but I think this is normal for a new language
  
@@ -95,11 +82,7 @@ David
 - [ ] nochmals HTML und CSS üben
 - [ ]
 
-| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
-| --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |                      |                |                |          |
-| ...             |                      |                |                |          |
-| 4               |                      |                |                |          |
+
 
 
 ## Reflexion
@@ -108,15 +91,11 @@ Heute habe ich mehr Javascript als HTML und CSS geübt. Ich habe den zweiten CRU
 ## 22.11.24
 
 
-- [ ] Die zwei Aufträge vom Modul 294 lösen (
+- [ ] Von dem Modul 346 Augabe 0715 und 0716 lösen oder fast fertig werden
 - [ ] Javascript repetieren
 - [ ]
 
-| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
-| --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |                      |                |                |          |
-| ...             |                      |                |                |          |
-| 4               |                      |                |                |          |
+
 
 
 ## Reflexion
