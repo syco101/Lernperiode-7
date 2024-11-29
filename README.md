@@ -14,7 +14,9 @@ Noten in dieser Periode
 Geplante Noten: 
 
 320: 4.5 - 5
-450: 5.5
+450: 5 - 5.5
+346: 5 - 5.5
+294: 5.5 - 6
 
 
 
@@ -96,14 +98,14 @@ Heute habe ich mehr Javascript als HTML und CSS geübt. Ich habe den zweiten CRU
 ## 22.11.24
 
 
-- [ ] Von dem Modul 346 Augabe 0715 und 0716 lösen oder fast fertig werden
-- [ ] Javascript repetieren
-- [ ]
+- [x] Von dem Modul 346 Aufgabe 0715 und 0716 lösen oder fast fertig werden
+- [x] Javascript repetieren
+
 
 ## 29.11.24
 
 - [ ] Den Crypto Tracker beginnen und das Design fertig machen 
-- [ ] Gitlab besser verstehen und die Commands anwenden können
+- [x] Gitlab besser verstehen und die Commands anwenden können
 
 
 ## Reflexion
