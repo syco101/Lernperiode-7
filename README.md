@@ -6,10 +6,15 @@ Ich stehe eigentlich gerade gut mit meinen Noten aber ich würde sie schon noch 
 Ich will die nächsten Modul-Themen lernen. dadurch erweitere ich mein Wissen.
 Mich auf ein Projekt stürzen was javascript und json braucht.
 
-Noten in diesem Modul:
+Noten in dieser Periode
 
 231: 6
 322: 4.5
+
+Geplante Noten: 
+
+320: 4.5 - 5
+450: 5.5
 
 
 
