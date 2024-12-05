@@ -119,5 +119,9 @@ Heute habe ich Den Auftrag 0715 und 0716 von dem Modul 346 gelöst und nochmals 
 ## Reflexion
 Heute habe ich mit dem Crypto Tracker begonnen den ich als Projektabgabe für das Modul 294 programmieren will. Ich wusste noch die ungefähren Angaben und habe als erstes die Website mit HTML und CSS programmiert und auch schon mal die API von Coingeko implementiertö. Ich hatte am Anfang Probleme weil mir nichts angezeigt wurde. Ich bemerkte dann aber das meinbe URL nicht stimmte. Ich habe eine Watchlist noch hinzugefügt gehabt und den dazu gehörigen Hinzufügen Button. Ich habe mir als Repetition nochmals die Gitlab Commands angeschaut weil ich sie auch für die OBA nächste Woche wissen muss. 
 
+6.12.24
 
+Mir ein neues Projekt überlegen in js
+
+Das Projekt anfangen und schonaml die grundlagen haben
 
