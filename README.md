@@ -10,15 +10,16 @@ Noten in dieser Periode
 
 231: 6
 322: 4.5
+320: 4.5
 
 Geplante Noten: 
 
-- [x] 231: 6
-- [ ] 322: 5.5
-- [ ] 320: 4.5 - 5
-- [ ] 450: 5 - 5.5
-- [ ] 346: 5 - 5.5
-- [ ] 294: 5.5 - 6
+   231: 6
+   322: 5.5
+   320: 4.5 - 5
+   450: 5 - 5.5
+   346: 5 - 5.5
+   294: 5.5 - 6
 
 
 
@@ -52,8 +53,8 @@ Heute habe ich das Modul 320 repetiert mit Aufträgen, Powerpoint und mit der Se
 ## 01.11.2024
 
 
-- [ ] 320 nochmals komplett anschauen und falls neue Fragen auf tauchen, diese Herr Meyer stellen 
-- [ ] Javascript tutorials schauen
+- [x] 320 nochmals komplett anschauen und falls neue Fragen auf tauchen, diese Herr Meyer stellen 
+- [x] Javascript tutorials schauen
 - [ ]
 
 
@@ -88,7 +89,7 @@ David
 
 
 - [x] Javascript Auftrag CRUD 2 lösen und Hilfstutorials schauen
-- [ ] nochmals HTML und CSS üben
+- [x] nochmals HTML und CSS üben
 - [ ]
 
 
@@ -101,17 +102,22 @@ Heute habe ich mehr Javascript als HTML und CSS geübt. Ich habe den zweiten CRU
 
 
 - [x] Von dem Modul 346 Aufgabe 0715 und 0716 lösen oder fast fertig werden
-- [x] Javascript repetieren
+- [x] Json server starten können
+
+      
+## Reflexion
+
+Heute habe ich Den Auftrag 0715 und 0716 von dem Modul 346 gelöst und nochmals kurz Javascript. Die Aufträge habe ich für sehr wichtig empfunden gehabt weil mir gezeigt wurde wie ich eine Datenbank auf AWS erstellen kann und dieses Wissen brauchte man auch für die LB. Json habe ich auch ein wenig angeschaut und mir war es wichtig zu verstehen wie man einen Server startet weil ich das Wissen für die LB 294 brauche.
 
 
 ## 29.11.24
 
-- [ ] Den Crypto Tracker beginnen und das Design fertig machen 
+- [x] Den Crypto Tracker beginnen und so weit kommen wie es geht.
 - [x] Gitlab besser verstehen und die Commands anwenden können
 
 
 ## Reflexion
-
+Heute habe ich mit dem Crypto Tracker begonnen den ich als Projektabgabe für das Modul 294 programmieren will. Ich wusste noch die ungefähren Angaben und habe als erstes die Website mit HTML und CSS programmiert und auch schon mal die API von Coingeko implementiertö. Ich hatte am Anfang Probleme weil mir nichts angezeigt wurde. Ich bemerkte dann aber das meinbe URL nicht stimmte. Ich habe eine Watchlist noch hinzugefügt gehabt und den dazu gehörigen Hinzufügen Button. Ich habe mir als Repetition nochmals die Gitlab Commands angeschaut weil ich sie auch für die OBA nächste Woche wissen muss.
 
 
 
