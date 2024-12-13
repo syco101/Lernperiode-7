@@ -1,138 +1,93 @@
-# Lernperiode-7
-
-## Grossplanung
-
-Ich stehe eigentlich gerade gut mit meinen Noten aber ich würde sie schon noch gerne verbessern. Ich hatte jetzt 2 Module fertig gemacht und in einem habe ich eine 6 und in 322 bin ich mir nicht genau sicher was ich habe. Ich fande das  Modul 322 hat am meisten spass gemacht wegen der Website programmieren, dadurch habe ich auch viel mehr gelernt. Das Modul 233 war auch gut für die allgemeine Weiterbildung.
-Ich will die nächsten Modul-Themen lernen. dadurch erweitere ich mein Wissen.
-Mich auf ein Projekt stürzen was javascript und json braucht.
-
-Noten in dieser Periode
-
-231: 6
-322: 4.5
-320: 4.5
-
-Geplante Noten: 
-
-   231: 6
-   322: 5.5
-   320: 4.5 - 5
-   450: 5 - 5.5
-   346: 5 - 5.5
-   294: 5.5 - 6
+# LB 294
 
 
 
-## 18.10.2024
+## Getting started
 
+To make it easy for you to get started with GitLab, here's a list of recommended next steps.
 
-- [x] Das OBA 322 weit wie möglich fertig bringen(Hälfte oder fast fertig).
-- [x] Alte Aufgaben und Powerpoints repetieren (Wissen wieder auffrischen)
-- [ ] Den Cheese Shop ausbessern aus dem Modul 322. (Fehler behebung und fehlende Seiten ausfüllen)
+Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
 
+## Add your files
 
+- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
+- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
 
-## Reflexion
+```
+cd existing_repo
+git remote add origin https://gitlab.bbbaden.ch/D.Aksic.inf23/lb-294.git
+git branch -M main
+git push -uf origin main
+```
 
-Heute habe ich weiter an dem OBA gearbeitet. Ich hatte mit dem am Mittwoch angefangen und ich denke ich bin jetzt ungefähr bei der Hälfte oder auch schon ein wenig weiter. Mir ist am Anfang das OOP programmieren schwer gefallen aber jetzt langsam verstehe ich es besser. Ich habe mir noch alte Aufgaben und PPPs repetiert damit ich das wieder im Kopf hatte.(63)
+## Integrate with your tools
 
-## 25.10.2024
+- [ ] [Set up project integrations](https://gitlab.bbbaden.ch/D.Aksic.inf23/lb-294/-/settings/integrations)
 
+## Collaborate with your team
 
-- [x] 320 repetieren
-- [x] Javascript videos schauen 
-- [ ]
+- [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
+- [ ] [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
+- [ ] [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
+- [ ] [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
+- [ ] [Set auto-merge](https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html)
 
+## Test and Deploy
 
+Use the built-in continuous integration in GitLab.
 
+- [ ] [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/index.html)
+- [ ] [Analyze your code for known vulnerabilities with Static Application Security Testing (SAST)](https://docs.gitlab.com/ee/user/application_security/sast/)
+- [ ] [Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy](https://docs.gitlab.com/ee/topics/autodevops/requirements.html)
+- [ ] [Use pull-based deployments for improved Kubernetes management](https://docs.gitlab.com/ee/user/clusters/agent/)
+- [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
 
-## Reflexion
+***
 
-Heute habe ich das Modul 320 repetiert mit Aufträgen, Powerpoint und mit der Session vom Herrn Meyer. Ich habe noch Videos und Theorie auf W3S geschaut und gelernt weil ein neues Modul von uns über Javascript ist und ich mich in dem verbessern wollte.
+# Editing this README
 
-## 01.11.2024
+When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thanks to [makeareadme.com](https://www.makeareadme.com/) for this template.
 
+## Suggestions for a good README
 
-- [x] 320 nochmals komplett anschauen und falls neue Fragen auf tauchen, diese Herr Meyer stellen 
-- [x] Javascript tutorials schauen
-- [ ]
+Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
 
+## Name
+Choose a self-explaining name for your project.
 
+## Description
+Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
 
-## Reflexion
-Ich habe mir Heute verschiedene JavaScript Tutorials angeschaut um mein Wissen ein wenig zu erweitern und zu vertiefen für das Modul 294 und dann habe ich mir noch verschiedene Themen von 320 angeschaut wie beispielsweise den Polymorphismus und den Aufbau, Funktionen von Classes und Methoden und allgemein die Struktur von Ihnen. Ich verstehe jetzt die Themen viel besser und ich denke ich habe eine gewisse Sicherheit mitgenommen. Ich hatte eigentlich keine wirklichen Probleme. Ich brauche eigentlich keine Unterstützung, weil die Session über Polymorphismus beim PPL hatte mir schon sehr gut geholfen. Ich finde aber das ich noch die weiteren Themen im allgemeinen noch anschauen soll und ich sollte noch viel mehr praktisch anschauen um mein Wissen auch zu festigen.
+## Badges
+On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
 
-## 08.11.2024
+## Visuals
+Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
 
+## Installation
+Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
 
-- [x] Den Moodle Auftrag Crud machen.
-- [x] Mich mehr über Json und Javascript informieren und noch mehr üben.
-- [ ]
+## Usage
+Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
 
+## Support
+Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
 
+## Roadmap
+If you have ideas for releases in the future, it is a good idea to list them in the README.
 
+## Contributing
+State if you are open to contributions and what your requirements are for accepting them.
 
-## Reflexion
- 
-On November 8th in the Lernatelier, I completed two assignments from GitHub. First, I worked on the Moodle CRUD task, where I practiced various operations and learned about the functionality of GET, POST, PUT, and DELETE requests. It was helpful to understand these concepts, especially in preparation for the OBA exam. Additionally, I needed to code in JSON, and I now feel I have a good understanding of its structure, which is generally consistent across different uses. I found this challenging in both languages and it needed time to get the right structure of the code, but I think this is normal for a new language
- 
-For this task, I needed to use Fetch. At first, I wasn't sure where to place it or exactly what it did, but after watching two tutorials, I was able to understand it and implement it successfully. This task was very helpful for deepening my knowledge of coding in JSON and JavaScript.
- 
-I also needed to use intheritance but this was not to hard because of the module 320. 
- 
-My second task was to further develop my understanding of JavaScript and JSON, which I managed to achieve naturally while working on the first task. I only watched a short video on how to create an element at the beginning of the Lernatelier session.
- 
-Best regards,
-David
+For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
 
-## 15.11.2024
+You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
 
+## Authors and acknowledgment
+Show your appreciation to those who have contributed to the project.
 
-- [x] Javascript Auftrag CRUD 2 lösen und Hilfstutorials schauen
-- [x] nochmals HTML und CSS üben
-- [ ]
+## License
+For open source projects, say how it is licensed.
 
-
-
-
-## Reflexion
-Heute habe ich mehr Javascript als HTML und CSS geübt. Ich habe den zweiten CRUD Auftrag angefangen und bin auch sehr weit gekommen aber leider nicht ganz fertig. Ich habe dann noch Youtube CRUD Tutorials geschaut einfach nochmals für die Repetition das ich es komplett verstehe. HTML und CSS habe ich Heute nicht so viel geübt weil ich viel mehr mit Javascript und dem Auftrag beschäftigt war aber dies war auch meine Priorität für den heutigen Tag.
-
-## 22.11.24
-
-
-- [x] Von dem Modul 346 Aufgabe 0715 und 0716 lösen oder fast fertig werden
-- [x] Json server starten können
-
-      
-## Reflexion
-
-Heute habe ich Den Auftrag 0715 und 0716 von dem Modul 346 gelöst und nochmals kurz Javascript. Die Aufträge habe ich für sehr wichtig empfunden gehabt weil mir gezeigt wurde wie ich eine Datenbank auf AWS erstellen kann und dieses Wissen brauchte man auch für die LB. Json habe ich auch ein wenig angeschaut und mir war es wichtig zu verstehen wie man einen Server startet weil ich das Wissen für die LB 294 brauche.
-
-
-## 29.11.24
-
-- [x] Den Crypto Tracker beginnen und so weit kommen wie es geht.
-- [x] Gitlab besser verstehen und die Commands anwenden können
-
-
-## Reflexion
-Heute habe ich mit dem Crypto Tracker begonnen den ich als Projektabgabe für das Modul 294 programmieren will. Ich wusste noch die ungefähren Angaben und habe als erstes die Website mit HTML und CSS programmiert und auch schon mal die API von Coingeko implementiertö. Ich hatte am Anfang Probleme weil mir nichts angezeigt wurde. Ich bemerkte dann aber das meinbe URL nicht stimmte. Ich habe eine Watchlist noch hinzugefügt gehabt und den dazu gehörigen Hinzufügen Button. Ich habe mir als Repetition nochmals die Gitlab Commands angeschaut weil ich sie auch für die OBA nächste Woche wissen muss. 
-
-6.12.24
-
-- [x] Mir eine neue Idee für ein neues Programmier Projekt überlegen.
-- [x] Die Website anfangen zu programmieren.
-
-## Reflexion
-
-
-
-13.12.24
-
-- [x] Eine weitere Funktion einbauen
-- [x] Die Website verschönern ( CSS ausbessern)
-- [ ] Versuchen JWT zu implementieren
-
-
-
+## Project status
+If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
