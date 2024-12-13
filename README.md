@@ -132,6 +132,7 @@ Heute habe ich mit dem Crypto Tracker begonnen den ich als Projektabgabe für da
 
 - [x] Eine weitere Funktion einbauen
 - [x] Die Website verschönern ( CSS ausbessern)
+- [ ] Versuchen JWT zu implementieren
 
 
 
