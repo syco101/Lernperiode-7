@@ -57,8 +57,8 @@ Heute habe ich mehr Javascript als HTML und CSS geübt. Ich habe den zweiten CRU
 Heute habe ich Den Auftrag 0715 und 0716 von dem Modul 346 gelöst und nochmals kurz Javascript. Die Aufträge habe ich für sehr wichtig empfunden gehabt weil mir gezeigt wurde wie ich eine Datenbank auf AWS erstellen kann und dieses Wissen brauchte man auch für die LB. Json habe ich auch ein wenig angeschaut und mir war es wichtig zu verstehen wie man einen Server startet weil ich das Wissen für die LB 294 brauche und dies verstand ich dann auch. Ich konnte es dann richtig umsetzen
 
 ## 29.11.24
-- [ ] Den Crypto Tracker beginnen und so weit kommen wie es geht.
-- [ ] Gitlab besser verstehen und die Commands anwenden können
+- [x] Den Crypto Tracker beginnen und so weit kommen wie es geht.
+- [x] Gitlab besser verstehen und die Commands anwenden können
 
       
 ## Reflexion
@@ -66,14 +66,21 @@ Heute habe ich mit dem Crypto Tracker begonnen den ich als Projektabgabe für da
 
 ## 6.12.24
 
-- [ ] Mir eine neue Idee für ein neues Programmier Projekt überlegen.
-- [ ] Die Website anfangen zu programmieren.
+- [x] Mir eine neue Idee für ein neues Programmier Projekt überlegen.
+- [x] Die Website anfangen zu programmieren.
 
 
 ## Reflexion
 
+Heute habe ich mir eine neue Website Idee überlegt und bin zu der Idee gekommen, dass ich einen Personenmanager möchte, der Personen erstellen, bearbeiten und Löschen kann. Ich habe sie dann auch angefangen und ich habe die grundlegende HTML und CSS Struktur und auch schon den Code für die CRUD Operationen die ich benutzen möchte. Ich habe auch die Login Funktion, ich bin aber irgendwie immernoch nicht ganz Zufriede weil die Speichrung auf dem Server nicht so gut funktioniert.
+
+
 ## 13.12.24
 
-- [ ] Eine weitere Funktion einbauen
+- [ ] Login Funktion richtig machen
 - [ ] Die Website verschönern ( CSS ausbessern)
 - [ ] Versuchen JWT zu implementieren
+
+## Reflexion
+
+
