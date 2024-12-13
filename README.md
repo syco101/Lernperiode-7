@@ -121,7 +121,17 @@ Heute habe ich mit dem Crypto Tracker begonnen den ich als Projektabgabe für da
 
 6.12.24
 
-Mir ein neues Projekt überlegen in js
+- [x] Mir eine neue Idee für ein neues Programmier Projekt überlegen.
+- [x] Die Website anfangen zu programmieren.
 
-Das Projekt anfangen und schonaml die grundlagen haben
+## Reflexion
+
+
+
+13.12.24
+
+- [x] Eine weitere Funktion einbauen
+- [x] Die Website verschönern ( CSS ausbessern)
+
+
 
