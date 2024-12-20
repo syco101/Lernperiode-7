@@ -78,7 +78,16 @@ Heute habe ich mir eine neue Website Idee überlegt und bin zu der Idee gekommen
 ## 13.12.24
 
 - [ ] Login Funktion richtig machen
-- [ ] Die Website verschönern ( CSS ausbessern)
+- [x] Die Website verschönern ( CSS ausbessern)
+- [ ] Versuchen JWT zu implementieren
+
+## Reflexion
+DIe Login Funktion hat leider einen Fehler bekommen denn ich nicht genau geschaft habe zu reparieren. Ich konnte CSS verbessern und meine Website habe ich verschönert. Nächstes mal will ich das meine Login Funktion funktioniert und evtl mit JWT anfangen.
+
+## 20.12.24
+
+- [ ] Login Funktion beheben
+- [ ] Website Versuchsfähig machen
 - [ ] Versuchen JWT zu implementieren
 
 ## Reflexion
