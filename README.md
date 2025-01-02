@@ -5,7 +5,7 @@ Ich stehe eigentlich gerade gut mit meinen Noten aber ich würde sie schon noch 
 
 ## Noten in dieser Periode
 
-231: 6 322: 4.5, 320: 4.5, 346: 5.5
+231: 6 322: 4.5, 320: 4.5, 346: 5.5, 294: 3.5
 
 ## Geplante Noten:
 
