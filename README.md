@@ -86,10 +86,19 @@ DIe Login Funktion hat leider einen Fehler bekommen denn ich nicht genau geschaf
 
 ## 20.12.24
 
-- [ ] Login Funktion beheben
+- [x] Login Funktion beheben
 - [ ] Website Versuchsfähig machen
-- [ ] Versuchen JWT zu implementieren
+- [x] Versuchen JWT zu implementieren
 
 ## Reflexion
+
+
+
+
+## 10.01.25
+
+- [ ] Mit dem LB 450 weiter machen
+- [ ] Website Versuchsfähig machen
+- [ ] Versuchen JWT zu implementieren
 
 
