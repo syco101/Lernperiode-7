@@ -9,7 +9,7 @@ Ich stehe eigentlich gerade gut mit meinen Noten aber ich würde sie schon noch 
 
 ## Geplante Noten:
 
-231: 6 322: 5.5 320: 4.5 - 5 450: 5 - 5.5 346: 5 - 5.5 294: 5.5 - 6
+231: 6 322: 5.5 320: 4.5 - 5  346: 5 - 5.5 294: 5.5 - 6
 
 ## 18.10.2024
 - [x] Das OBA 322 weit wie möglich fertig bringen(Hälfte oder fast fertig).
