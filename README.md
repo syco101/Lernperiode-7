@@ -82,7 +82,7 @@ Heute habe ich mir eine neue Website Idee überlegt und bin zu der Idee gekommen
 - [ ] Versuchen JWT zu implementieren
 
 ## Reflexion
-DIe Login Funktion hat leider einen Fehler bekommen denn ich nicht genau geschaft habe zu reparieren. Ich konnte CSS verbessern und meine Website habe ich verschönert. Nächstes mal will ich das meine Login Funktion funktioniert und evtl mit JWT anfangen.
+Die Login Funktion hat leider einen Fehler bekommen denn ich nicht genau geschaft habe zu reparieren. Ich konnte CSS verbessern und meine Website habe ich verschönert. Nächstes mal will ich das meine Login Funktion funktioniert und evtl mit JWT anfangen.
 
 ## 20.12.24
 
@@ -92,9 +92,9 @@ DIe Login Funktion hat leider einen Fehler bekommen denn ich nicht genau geschaf
 
 ## Reflexion
 
-Ich konnte die Login Funktion wieder funktionieren lassen aber ich habe es irgendwie nicht mit dem JWT hinbekommen aber versucht. Wenn ich mit dem Projekt weiter mache 
+Ich konnte die Login Funktion wieder funktionieren lassen aber ich habe es irgendwie nicht mit dem JWT hinbekommen aber versucht. Ich werde es weiterhin versuchen, dass es klappt mit dem JWT aber ich habe jetzt auch ein paar Fehler wegen dem JWT und ich muss jetzt die anderen Funktionen ausbessern.
 
-## Gesamtreflexion
+
 
 
 
