@@ -92,7 +92,7 @@ DIe Login Funktion hat leider einen Fehler bekommen denn ich nicht genau geschaf
 
 ## Reflexion
 
-
+Ich konnte die Login Funktion wieder funktionieren lassen aber ich habe es irgendwie nicht mit dem JWT hinbekommen aber versucht. 
 
 ## Gesamtreflexion
 
